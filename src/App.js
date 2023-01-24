@@ -10,7 +10,6 @@ function App() {
     <div className='child' id='four'>4</div>
     <div className='child' id='five'>5</div>
   </div>
-
     </div>
   );
 }
